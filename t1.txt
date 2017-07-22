@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+void main()
+{
+int a1,a2,a3,auto;
+printf("printing something");
+a1=5.0;
+for(int i=0;i<=2;i++)
+{
+printf("%d",i);
+i--
+int
+
+}
+}
